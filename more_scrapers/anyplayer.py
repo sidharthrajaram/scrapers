@@ -1,7 +1,9 @@
+#scrapes for year-by-year points/game stats for player of choice
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
+#this isn't the best way to do it. You should use Google custom search engine API to get links for each player.
 player_name = input("Full name of player? ").lower()
 ln_fi = player_name.find(' ')+1 #index of first initial of last name
 first = player_name[:2]

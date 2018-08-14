@@ -1,5 +1,4 @@
-#using soup to dig deeper into html structure
-import pandas as pd
+#using find_all to dig deeper into html structure
 import requests
 from bs4 import BeautifulSoup
 

@@ -1,4 +1,4 @@
-#most intuitive way
+#scrapes basketball reference for Steph Curry's year-by-year points/game stats
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup

@@ -1,3 +1,4 @@
+#scraping for table of historical data for stock of choice
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup

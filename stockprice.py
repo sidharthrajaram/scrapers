@@ -1,4 +1,4 @@
-#shows usefulness of browser inspect element
+#Scrapes Yahoo finance for stock price of choice
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
