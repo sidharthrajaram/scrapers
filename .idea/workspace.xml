@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62243f8e-93ee-40bd-98f5-38648afa7d57" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/more_scrapers/another_way.py" afterPath="$PROJECT_DIR$/more_scrapers/using_find_all.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/more_scrapers/bref_custom.py" afterPath="$PROJECT_DIR$/more_scrapers/anyplayer.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/more_scrapers/stock_history.py" afterPath="$PROJECT_DIR$/more_scrapers/stock_history.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/steph_scraper.py" afterPath="$PROJECT_DIR$/steph_scraper.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stockprice.py" afterPath="$PROJECT_DIR$/stockprice.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,14 +13,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="steph_scraper.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="steph_scraper.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/steph_scraper.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="e#79#98#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="40" lean-forward="true" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -42,6 +48,7 @@
         <option value="$PROJECT_DIR$/more_scrapers/bref_custom.py" />
         <option value="$PROJECT_DIR$/more_scrapers/using_find_all.py" />
         <option value="$PROJECT_DIR$/more_scrapers/stock_history.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -189,10 +196,18 @@
     <entry file="file://$PROJECT_DIR$/steph_scraper.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="e#79#98#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="40" lean-forward="true" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
