@@ -15,7 +15,8 @@ res = requests.get(link)
 
 soup = BeautifulSoup(res.content,'lxml')
 
-table = soup.find_all('table')[0]
+#index is 1 due to new addition to their website
+table = soup.find_all('table')[1]
 
 df = pd.read_html(str(table))[0]
 

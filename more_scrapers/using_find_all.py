@@ -6,7 +6,8 @@ res = requests.get("https://www.basketball-reference.com/players/j/jamesle01.htm
 
 soup = BeautifulSoup(res.content,'lxml')
 
-table = soup.find_all('table')[0]
+#index is 1 due to new addition to their website
+table = soup.find_all('table')[1]
 
 row = table.find_all('tr')[1]
 # print(row)
